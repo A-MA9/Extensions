@@ -3,11 +3,6 @@
     "name": "Password Generator",
     "version": "1.0",
     "description": "A simple password generator extension.",
-    "icons": {
-        "16": "2_icon.jpg",
-        "48": "2_icon.jpg",
-        "128": "2_icon.jpg"
-    },
     "action": {
         "default_popup": "popup.html"
     }
