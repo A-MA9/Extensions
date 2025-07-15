@@ -6,10 +6,10 @@ body{
 
 
 .logo {
-  width: 160px; /* adjust size as you like */
+  width: 160px;
   height: 47px;
   display: block;
-  margin: 0 auto; /* centers the logo */
+  margin: 0 auto; 
 }
 
 
